@@ -34,6 +34,7 @@ Practical
 CALCULATIONS:
 
 RESULT:
+
 Thus, the Mesh analysis is verified practically and theoretically. The resultant currents for 	/	V supply are:
 a)	The current across resistor R1 is	A.
 b)	The current across resistor R2 is	A.
