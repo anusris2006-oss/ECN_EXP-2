@@ -12,6 +12,9 @@ SL.NO	APPARATUS	SPECIFICATION	QUANTITY
 
 CIRCUIT DIAGRAM:
 
+<img width="932" height="613" alt="Screenshot 2025-11-11 091701" src="https://github.com/user-attachments/assets/e5c6a2a3-c803-4dbf-a468-f4a9ab5f4c2e" />
+
+
 PROCEDURE:
 1.	Give connections as per the circuit diagram.
 2.	Switch ON the supply, vary the RPS (Regulated Power Supply) and set a particular input voltage.
