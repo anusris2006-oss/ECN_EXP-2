@@ -26,7 +26,11 @@ PROCEDURE:
 5.	Reduce the RPS to its minimum value and switch OFF the supply.
 6.	Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.
 	
-Theoretical
+Theoretical:-
+
+<img width="1377" height="1600" alt="image" src="https://github.com/user-attachments/assets/996a6896-e088-4fe2-bf88-40aaae68705b" />
+<img width="1042" height="1600" alt="image" src="https://github.com/user-attachments/assets/5ec77176-e628-4a00-a16b-56226e5e583b" />
+<img width="1600" height="1100" alt="image" src="https://github.com/user-attachments/assets/92ec5d16-aa4a-471b-b6ab-4ef55c372367" />
 
 Practical:-
 
@@ -34,12 +38,17 @@ I1 = 2.2105A 	&    I2 = 2.3509A
 
 CALCULATIONS:
 
+<img width="1377" height="1600" alt="image" src="https://github.com/user-attachments/assets/996a6896-e088-4fe2-bf88-40aaae68705b" />
+<img width="1042" height="1600" alt="image" src="https://github.com/user-attachments/assets/5ec77176-e628-4a00-a16b-56226e5e583b" />
+<img width="1600" height="1100" alt="image" src="https://github.com/user-attachments/assets/92ec5d16-aa4a-471b-b6ab-4ef55c372367" />
+
 RESULT:
 
 Thus, the Mesh analysis is verified practically and theoretically. The resultant currents for 	/	V supply are:
-a)	The current across resistor R1 is	A.
-b)	The current across resistor R2 is	A.
-c)	The current across resistor R3 is	A.
+
+a)	The current across resistor R1 is   2.508A.
+b)	The current across resistor R2 is	2.3006A.
+c)	The current across resistor R3 is	0.511A.
 
 
 
