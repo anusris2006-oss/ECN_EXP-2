@@ -1,9 +1,11 @@
 Exp 2.	Experimental determination of currents and voltages in circuits using Mesh analysis
 
 Aim:-
+
 To determine the current in circuit using mesh analysis both theoretically and practically for a given DC circuit
 
 APPARATUS REQUIRED:
+
 SL.NO	APPARATUS	SPECIFICATION	QUANTITY
 1.	Regulated Power supply ( RPS)	(0-30 V)	1
 3.	Ammeter	( 0 - 10 mA) MC	3
@@ -16,6 +18,7 @@ CIRCUIT DIAGRAM:
 
 
 PROCEDURE:
+
 1.	Give connections as per the circuit diagram.
 2.	Switch ON the supply, vary the RPS (Regulated Power Supply) and set a particular input voltage.
 3.	Note down the readings of ammeters and voltmeters and tabulate them.
