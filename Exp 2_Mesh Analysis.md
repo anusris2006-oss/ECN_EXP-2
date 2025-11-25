@@ -22,11 +22,7 @@ PROCEDURE:
 4.	Vary the RPS for different input voltages and note down the readings of all the meters.
 5.	Reduce the RPS to its minimum value and switch OFF the supply.
 6.	Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.
-
-TABULAR COLUMN:
-
-
-Parameters	
+	
 Theoretical
 
 Practical
