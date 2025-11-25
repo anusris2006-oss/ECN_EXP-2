@@ -28,8 +28,10 @@ PROCEDURE:
 	
 Theoretical
 
-Practical
-		
+Practical:-
+
+I1 = 2.2105A 	&    I2 = 2.3509A
+
 CALCULATIONS:
 
 RESULT:
